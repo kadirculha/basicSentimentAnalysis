@@ -1,0 +1,4 @@
+matplotlib
+nltk
+GetOldTweets3
+twint
